@@ -60,7 +60,7 @@ iframe {
     color: black;
 }
 /* telas menores */
-@media (max-width: 375px) {
+@media (max-width: 500px) {
     .arte-mapa {
         display: block;
         justify-content: center;
